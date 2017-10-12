@@ -1,10 +1,7 @@
 <template>
 <div class="center">
-  <h2>{{title}}</h2>
-    <img class="logo-big" src="./img/vue-logo.png" />
-    <p>
-      Plantilla hecha con Vue.js y Webpack
-    </p>
+  <img class="img-responsive" style="width: 100%;" src="./img/inmitweet.png"/>
+  
 </div>
 </template>
 <script>
